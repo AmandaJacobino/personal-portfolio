@@ -36,19 +36,24 @@ main {
 }
 
 h1, h2 {
-    font-family: 'Poppins', sans-serif;
+    font-family: "montserrat", sans-serif;
     text-align: center;
-    margin-bottom: 10px;
+    text-size: 2.5em;
+    margin-bottom: 0px;
 }
 
-.bio {
-    text-align: jus;
+.bio, p {
+    text-align: justify;
+    font-size: 1.1em;
+    font-family: "inter", sans-serif;
 }
 
 /*--- Skills Section ---*/
 .text-skills {
     margin-bottom: 20px;
     text-align: center;
+    font-family: "inter", sans-serif;
+    font-size: 1.2em;
 }
 
 .tech-list {
@@ -72,6 +77,7 @@ h1, h2 {
     gap: 15px;
     list-style: none;
     padding: 0;
+    font-family: "inter", sans-serif;
 }
 
 
