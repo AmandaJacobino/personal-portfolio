@@ -38,14 +38,14 @@ main {
 h1, h2 {
     font-family: "montserrat", sans-serif;
     text-align: center;
-    text-size: 2.5em;
-    margin-bottom: 0px;
+    font-size: 2em;
 }
 
 .bio, p {
     text-align: justify;
     font-size: 1.1em;
     font-family: "inter", sans-serif;
+    margin: 30px 0px 0px 0px;
 }
 
 /*--- Skills Section ---*/
