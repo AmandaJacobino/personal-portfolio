@@ -24,7 +24,9 @@ main {
 .section {
     margin-bottom: 30px;
 }
+
 /*--- Introduction Section ---*/
+
 .profile-photo {
     width: 150px;
     height: 150px;
@@ -45,28 +47,28 @@ h2 {
 }
 
 .bio {
-    text-align: justify;
+    text-align: jus;
 }
 
 /*--- Skills Section ---*/
 .text-skills {
-    margin-bottom: 10px;
+    margin-bottom: 20px;
+    text-align: center;
 }
 
 .tech-list {
     display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
     list-style: none;
-    gap: 15px;   
+    gap: 10px;   
 }
-
-.tech-list li {
-    display: inline-block;     
-    border: 1px solid black;   
-    padding: 5px 10px;         
-    margin: 0;                 
-    line-height: 1;            
-    text-align: center;  
-}
+    .tech-list li { 
+        border: 1px solid #ccc;   
+        padding: 10px 35px;                        
+        line-height: 1;            
+        text-align: center;  
+    }
 
 /*--- Contact Section ---*/
 
