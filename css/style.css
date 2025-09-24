@@ -50,21 +50,21 @@ h1, h2 {
 
 
 /*--- Skills Section ---*/
-.text-skills {
+.skills-text {
     margin-bottom: 20px;
     text-align: center;
     font-family: "inter", sans-serif;
     font-size: 1.2em;
 }
 
-.tech-list {
+.skills-list {
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
     list-style: none;
     gap: 10px;   
 }
-    .tech-list li { 
+    .skills-list li { 
         border: 1px solid #ccc;   
         padding: 10px 35px;                        
         line-height: 1;            
