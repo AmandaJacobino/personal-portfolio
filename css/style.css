@@ -82,6 +82,7 @@ h1, h2 {
     font-family: "inter", sans-serif;
 }
 .contact-text {
+    margin: 25px 0px;
     text-align: center;
     font-size: 1.1em;
     font-family: "inter", sans-serif;
@@ -107,3 +108,5 @@ footer {
     color: #777;
     margin-top: 20px;
 }
+
+
